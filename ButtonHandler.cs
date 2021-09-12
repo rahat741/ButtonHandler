@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ButtonHandler : MonoBehaviour
 {
-
+//Dunya
     private DisplayImage currentDisplay;
     
     // Start is called before the first frame update
